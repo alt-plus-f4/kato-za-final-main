@@ -1,0 +1,6 @@
+[submodule "kato-za-final-embed"]
+	path = kato-za-final-embed
+	url = https://github.com/alt-plus-f4/kato-za-final-embed
+[submodule "kato-za-final"]
+	path = kato-za-final
+	url = https://github.com/alt-plus-f4/kato-za-final
