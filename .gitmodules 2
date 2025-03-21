@@ -1,0 +1,6 @@
+[submodule "kato-za-final"]
+	path = kato-za-final
+	url = https://github.com/alt-plus-f4/kato-za-final
+[submodule "--force"]
+	path = --force
+	url = https://github.com/alt-plus-f4/kato-za-final-embed.git
